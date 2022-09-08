@@ -1,2 +1,2 @@
 #!/bin/bash
-cp ./fonts ~/.local/share
+cp -R ./fonts ~/.local/share
